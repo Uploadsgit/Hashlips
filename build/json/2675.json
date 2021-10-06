@@ -1,0 +1,63 @@
+{
+  "name": "NFT 2675",
+  "symbol": "SYM",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "2675.png",
+  "edition": 2676,
+  "attributes": [
+    {
+      "trait_type": "Fondo",
+      "value": "Fondo Fucsia"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Dick"
+    },
+    {
+      "trait_type": "Alas",
+      "value": "Raras"
+    },
+    {
+      "trait_type": "Cabeza",
+      "value": "Ciclista"
+    },
+    {
+      "trait_type": "Pantalones",
+      "value": "Azul"
+    },
+    {
+      "trait_type": "Boca",
+      "value": "Risa"
+    },
+    {
+      "trait_type": "Cola",
+      "value": "Cola Demonio"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Gangsta"
+    }
+  ],
+  "seller_fee_basis_points": 250,
+  "animation_url": "",
+  "external_url": "",
+  "collection": {
+    "name": "Mi Colección",
+    "family": "Mi Familia"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "2675.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7EQ6eKDUVm1bxfWKuvgBCDgY366wTNqk1ixMyjSy2v6j",
+        "share": 100
+      }
+    ]
+  }
+}

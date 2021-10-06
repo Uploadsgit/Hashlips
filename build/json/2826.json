@@ -1,0 +1,63 @@
+{
+  "name": "NFT 2826",
+  "symbol": "SYM",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "2826.png",
+  "edition": 2827,
+  "attributes": [
+    {
+      "trait_type": "Fondo",
+      "value": "Fondo Fucsia"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Dick"
+    },
+    {
+      "trait_type": "Alas",
+      "value": "Angel"
+    },
+    {
+      "trait_type": "Cabeza",
+      "value": "Fuego Rojo"
+    },
+    {
+      "trait_type": "Pantalones",
+      "value": "Azul"
+    },
+    {
+      "trait_type": "Boca",
+      "value": "Lengua"
+    },
+    {
+      "trait_type": "Cola",
+      "value": "Cola Demonio"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Pixel"
+    }
+  ],
+  "seller_fee_basis_points": 250,
+  "animation_url": "",
+  "external_url": "",
+  "collection": {
+    "name": "Mi Colección",
+    "family": "Mi Familia"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "2826.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7EQ6eKDUVm1bxfWKuvgBCDgY366wTNqk1ixMyjSy2v6j",
+        "share": 100
+      }
+    ]
+  }
+}

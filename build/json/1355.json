@@ -1,0 +1,63 @@
+{
+  "name": "NFT 1355",
+  "symbol": "SYM",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "1355.png",
+  "edition": 1356,
+  "attributes": [
+    {
+      "trait_type": "Fondo",
+      "value": "Fondo Amarillo"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Dick"
+    },
+    {
+      "trait_type": "Alas",
+      "value": "Demonio"
+    },
+    {
+      "trait_type": "Cabeza",
+      "value": "Payaso"
+    },
+    {
+      "trait_type": "Pantalones",
+      "value": "Azul"
+    },
+    {
+      "trait_type": "Boca",
+      "value": "Abierta"
+    },
+    {
+      "trait_type": "Cola",
+      "value": "Cola Demonio"
+    },
+    {
+      "trait_type": "Ojos",
+      "value": "Pixel"
+    }
+  ],
+  "seller_fee_basis_points": 250,
+  "animation_url": "",
+  "external_url": "",
+  "collection": {
+    "name": "Mi Colección",
+    "family": "Mi Familia"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "1355.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7EQ6eKDUVm1bxfWKuvgBCDgY366wTNqk1ixMyjSy2v6j",
+        "share": 100
+      }
+    ]
+  }
+}
